@@ -6,7 +6,7 @@
 
 <P>
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
-  <h2 align="center">ARELY AGUILAR FARIAS</h2>
+  <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Desarrollo de aplicacion de Alexa con proceso de variables y modificaciones especificas a la aplicación de operación "raíz cuadrada"</h3>
   <h3 align="center">Fecha de entrega: 02/Junio/2023</h3>
   <h3 align="center">"Práctica en equipo"</h3>
